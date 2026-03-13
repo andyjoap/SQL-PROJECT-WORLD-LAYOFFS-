@@ -2,10 +2,9 @@
 
 #In this project, we will focus on cleaning data from a table named 'layoffs':
 
-```sql	
 SELECT *
 FROM layoffs ;
-```
+
 #STEPS:
 
 -- 1. Remove duplicate
