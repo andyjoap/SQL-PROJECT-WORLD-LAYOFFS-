@@ -5,8 +5,7 @@
 ```sql	
 SELECT *
 FROM layoffs ;
-
-
+```
 #STEPS:
 
 -- 1. Remove duplicate
